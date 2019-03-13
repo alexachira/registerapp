@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">register.app</string>
+    <string name="enter_names">ingiza jina</string>
+    <string name="enter_email">ingiza baruapepe</string>
+    <string name="password">siri</string>
+    <string name="phone">nambari ya simu</string>
+    <string name="date_of_birth">tarehe ya kuzaliwa</string>
+    <string name="male">mume</string>
+    <string name="female">muke</string>
+    <string name="agree_to_terms_and_conditions">kubali</string>
+    <string name="submitt">weka</string>
+</resources>
